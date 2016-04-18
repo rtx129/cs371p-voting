@@ -1,0 +1,113 @@
+commit ea90e8e90a80ff40c2ce954835cc0348e3dd9ac4
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Thu Sep 24 01:53:35 2015 -0500
+
+    closes #9, closes #10, closes #15
+
+commit 4dd8a729ab379c5374afe80f2d4a6a60d8c93285
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Thu Sep 24 00:41:28 2015 -0500
+
+    add test cases
+
+commit d61a0736b18e308fbadfedab39b9c4c8432875da
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Thu Sep 24 00:16:09 2015 -0500
+
+    closes #9, closes #11
+
+commit 74f6f25bd9b1742bcf9c44900a9b77821de8c60c
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Thu Sep 24 00:05:59 2015 -0500
+
+    new html
+
+commit d7bfe1e888dced6fcfc63b19abce338e8113ec5d
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Thu Sep 24 00:03:08 2015 -0500
+
+    adding getters and setters; closes #17
+
+commit 5e886da14208c6f53e81e489222739dcd5bacc78
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Wed Sep 23 21:26:11 2015 -0500
+
+    add documents
+
+commit 9fac1bd056830944d2fba929fb7bea0a3ce77180
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Wed Sep 23 18:28:01 2015 -0500
+
+    closes #16
+
+commit df88e753837cfb419689e4ba4e716461290f665f
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Wed Sep 23 17:10:23 2015 -0500
+
+    add 1 file
+
+commit 9c3254435c02f398a70addb3bdeaf407bbbc4f24
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Wed Sep 23 16:45:17 2015 -0500
+
+    closes #14, closes #13, closes #12, closes #8
+
+commit 87dc4d8b440db63489bf0c7e53641a7caccd85e0
+Author: hn3935 <hieunguyen1408@gmail.com>
+Date:   Wed Sep 23 15:03:00 2015 -0500
+
+    fix Voting.h; closes #8, closes #12
+
+commit 6f25611604d83ecb2a84fd84a7b556b8d503c39b
+Author: Raymond Ton <rtx129@yahoo.com>
+Date:   Tue Sep 22 19:56:19 2015 -0500
+
+    added TestVoting.c++ and UVaVoting.c++
+
+commit 6c4d49dd9f96b640459acf426ea5c10b3d4811ed
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Sun Sep 20 20:02:00 2015 -0500
+
+    nothing much
+
+commit 7a3046e684dc3e97b1e6b82dcabbaad931d1be64
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Sun Sep 20 19:39:18 2015 -0500
+
+    closes #6; closes #7
+
+commit b2299c548d4826f27d88005eb861c42ca9135c38
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Sat Sep 19 13:35:52 2015 -0500
+
+    closes #4, #5
+
+commit 913813c8466781a11a82e3fa1bc6e76d9b98063c
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Thu Sep 17 15:10:36 2015 -0500
+
+    closes #3; basic I/O
+
+commit 7d89fc15005a96608e07c8997665c12f57197ca1
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Thu Sep 17 14:41:37 2015 -0500
+
+    closes #2
+
+commit 0e9920618010b4bfd2bf20054ecaf352c857c77e
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Wed Sep 16 18:42:01 2015 -0500
+
+    basic I/O implementation; closes #3
+
+commit 4fed5e5386f10891a0ebc8d1e525a18d01d058cb
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Wed Sep 16 15:24:27 2015 -0500
+
+    closes #1
+
+commit 6b105a9b2af992686b66be1716e5c3006c339b44
+Author: Hieu Nguyen <hn3935@cs.utexas.edu>
+Date:   Wed Sep 16 15:14:23 2015 -0500
+
+    first commit
